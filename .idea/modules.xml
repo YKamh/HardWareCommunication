@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HardWareCommunication.iml" filepath="$PROJECT_DIR$/HardWareCommunication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/serialportlibrary/serialportlibrary.iml" filepath="$PROJECT_DIR$/serialportlibrary/serialportlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/usblibrary/usblibrary.iml" filepath="$PROJECT_DIR$/usblibrary/usblibrary.iml" />
+    </modules>
+  </component>
+</project>
